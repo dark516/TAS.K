@@ -2,8 +2,6 @@
 
 <img src="assets/images/logo.svg" alt="TAS.K Logo" width="200"/>
 
-<br/>
-
 # TAS.K
   This is the repository of the TAS.K team.  
 
