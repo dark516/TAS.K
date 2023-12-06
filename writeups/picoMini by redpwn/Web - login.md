@@ -69,7 +69,7 @@ And ```atob(t.p)``` is just a base64 decode of ```t.p```
 ... And for the password to be correct, ```t.p``` needs to be:  
 ```"cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ"```
 
-So, the flag is just base64 decode of line above. Thats the flag.
+So, the flag is just base64 decode of line above.
 
 ---
 
