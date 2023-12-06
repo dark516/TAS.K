@@ -8,7 +8,7 @@
   Here will be our stuff, mostly writeups of CTFs.
 
 # Meet the Team
-  - dark516 - TODO: make a commit
+  - dark516 - steganography lover
   - kebabulon - kinda good at computer
   - ksenyanikk - TODO: make a commit
   - fi00m - TODO: make a commit
