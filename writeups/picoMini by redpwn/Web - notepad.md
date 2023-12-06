@@ -5,7 +5,7 @@
 
 ### Task
 This note-taking site seems a bit off.  
-notepad.mars.picoctf.net
+[notepad.mars.picoctf.net](https://notepad.mars.picoctf.net/)
 
 ![caas site](./assets/images/notepad_1.png)
 
