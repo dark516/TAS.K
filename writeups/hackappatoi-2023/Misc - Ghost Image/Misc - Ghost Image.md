@@ -37,7 +37,7 @@ Instead I cURL'd it (check **index.html**)
 The images are made out of CSS shadow boxes, and there seems to be 2 images.  
 I'll write a parser to convert it into an actual image.
 
-Using BeautifulSoup we will the inner html of ```<style>``` element:
+Using BeautifulSoup we will get the inner html of ```<style>``` element:
 
 ```py
 from bs4 import BeautifulSoup
@@ -58,7 +58,7 @@ f = f.split("}")[0]
 fs = f.split(",  ")
 ```
 
-Go through all the shadow boxes and write to a 2d array:
+Go through all the shadow boxes and write the pixel color to a 2d array:
 
 ```py
 import numpy as np
