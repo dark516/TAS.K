@@ -17,7 +17,7 @@ It's an audio file. Lets check its spectrogram:
 
 ![Spectrogram](assets/images/rick_1.png)
 
-After doing a bit of research, this seems to be a T9 message:
+After doing a bit of research, this seems to be a DTMF encrypted message:
 
 ```
 77336C63306D65 68306D33 7231636B347374316579
