@@ -10,6 +10,6 @@
 # Meet the Team
   - dark516 - steganography lover
   - kebabulon - kinda good at computer
-  - ksenyanikk - non-programmable elephant
+  - ksenyanikk - non-programmable elephant (◕‿◕)
   - fi00m - im a programmer, just an art-programmer :>
   - l0cron - average python enjoyer
