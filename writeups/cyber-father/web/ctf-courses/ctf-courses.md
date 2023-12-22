@@ -170,7 +170,7 @@ if data_hash != actual_hash:
     return redirect('/login')
 ```
 
-The user's hash is randomly generated.
+The user's salt is randomly generated.
 
 ```py
 users[username] = hex(random.getrandbits(24))[2:]
