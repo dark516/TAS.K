@@ -1,5 +1,5 @@
 # Crypto - Task 1
-## Writeup Author: kebabulon
+## Writeup Author: l0cron
 
 ---
 
